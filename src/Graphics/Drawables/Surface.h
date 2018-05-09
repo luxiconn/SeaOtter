@@ -1,0 +1,8 @@
+#ifndef SEAOTTER_GRAPHICS_DRAWABLES_SURFACE_H
+#define SEAOTTER_GRAPHICS_DRAWABLES_SURFACE_H
+
+namespace Otter {
+class Surface {};
+} // namespace Otter
+
+#endif // SEAOTTER_GRAPHICS_DRAWABLES_SURFACE_H

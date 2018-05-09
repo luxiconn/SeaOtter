@@ -1,3 +1,9 @@
+.vscode/*
+.vs/*
+build/
+
+!.vscode/c_cpp_properties.json
+
 # Compiled Object files
 *.slo
 *.lo
